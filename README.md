@@ -20,10 +20,6 @@ Flickr Picture is an example project on how to call a restful API to retrieve da
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-TODO: Write history
-
 ## Credits
 Joshua Alvarado
 @alvaradojoshua0
